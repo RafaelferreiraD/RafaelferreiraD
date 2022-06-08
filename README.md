@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RafaelferreiraD or just Rafael
+- 👀 I’m interested in all about technology
+- 🌱 I’m currently learning c/c++, baremetal programming for iot devices and microservices with docker
+- 💞️ I’m looking to collaborate on everything what i can be useful
+- 📫 How to reach me, for while i only have an instagram account: @rafael_ferreirad
